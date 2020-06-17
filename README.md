@@ -116,11 +116,11 @@ There is a lot of interesting research and evaluation work around BiT. Contact u
 
 * **Wireless Research and Standards, FUTUREWEI**
 
-For comments and questions, please contact [Weimin Xiao](Weimin.Xiao@FUTUREWEI.com), [Jialing Liu](Jialing.Liu@FUTUREWEI.com), and [Qian Cheng](Q.Cheng@FUTUREWEI.com).
+For comments and questions, please contact [Weimin Xiao](mailto:Weimin.Xiao@FUTUREWEI.com), [Jialing Liu](mailto:Jialing.Liu@FUTUREWEI.com), and [Qian Cheng](mailto:Q.Cheng@FUTUREWEI.com).
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## References
 
